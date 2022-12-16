@@ -23,7 +23,7 @@ const App: React.FC = () => {
       logo={
         <Image
           src={logo}
-          height='64px'
+          height='58px'
           preview={false}
           // 不可选中
           draggable={false}

@@ -182,10 +182,10 @@
   resolved "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.16.7.tgz#966ac3fc41758e6843cbd5844b2466bbdc34dada"
   integrity sha512-QaQ8IH0JLacfGf5cf0HCCPnQuCTd/dAI257vXBgb/cccKGbH/6pVtI1gwhdAQ0Y48QSpTIFrh9etVyNdZY+zzw==
 
-"@hubiao/family-ui@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.npmjs.org/@hubiao/family-ui/-/family-ui-1.0.7.tgz#7ced03388d6313610de60047c9f1665a68c7be9b"
-  integrity sha512-W4BK5yE7K0s8/6pSTZUKqLCSZKxrHmYr8n7P8AqbMHOsxuZxf+nBsudVup6pxULL+uAv+bxJMvs8VPI8H2wkaw==
+"@hubiao/family-ui@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.npmjs.org/@hubiao/family-ui/-/family-ui-1.0.9.tgz#f539236290bcd1eed293187526602152faa2c32a"
+  integrity sha512-DuWnNT4GoxxeTzfWAdy3l6PVlT/bQFKqh+9Ny3ERB/um39lPuRrU5kjiJqkT/ugqb4P3sx4j/UFb8I+WzsLAHg==
 
 "@rc-component/mini-decimal@^1.0.1":
   version "1.0.1"
